@@ -1,0 +1,1 @@
+Microservice room about Ward room management in hospitals allows managing wards, rooms and beds in a hospital. Every functionality is dynamic here and helps to create and a lot a ward / room or bed to patient and services related to it.
